@@ -3,7 +3,8 @@ def sumar(a,b):
     return suma
 
 def producto(a,b):
-    pass
+    multi = a * b
+    return multi
 
 def division(a,b):
     pass
