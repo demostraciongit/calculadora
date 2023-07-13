@@ -1,5 +1,6 @@
 def sumar(a,b):
-    pass
+    suma= a + b
+    return suma
 
 def producto(a,b):
     pass
@@ -9,3 +10,4 @@ def division(a,b):
 
 def resta(a,b):
     pass
+
